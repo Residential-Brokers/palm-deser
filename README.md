@@ -1,4 +1,4 @@
-# palm-desert
+# Residential Brokers - Palm Springs Region Community Guide
 Palm Springs Region Community Guide
 At Residential Brokers, our mission is to organize local community information and make it universally accessible and useful to home buyers and sellers in the Palm Springs, CA Region
 
